@@ -57,12 +57,12 @@ keep in mind that repo has hacktoberfest topic..
 - Clone on your local machine
 
 ```
-git clone https://github.com/KIET7UKE/Hacktoberfest-2K22
+git clone https://github.com/KIET7UKE/Hacktoberfest2K22-2
 
 ```
 - Navigate to project directory.
 ```
-cd Hacktoberfest-2K22
+cd Hacktoberfest2K22-2
 ```
 
 - Create a new Branch
@@ -88,22 +88,6 @@ git push origin my-new-branch
 - Create a new pull request from your forked repository
 
 <br>
-
-## View Some JS Live Demo Projects
-
-| Day |                                 Name                                  |
-| --- | :-------------------------------------------------------------------: |
-| 1   |       [Dice Roller](https://grand-dolphin-6cf5fb.netlify.app/)        |
-| 2   |    [Expense Tracker](https://roaring-daifuku-02836d.netlify.app/)     |
-| 3   |     [HangMan Game](https://shiny-stroopwafel-00478e.netlify.app/)     |
-| 4   | [3Equal Numbers](https://coruscating-salamander-170f30.netlify.app/)  |
-| 5   |    [Stick Hero Game](https://fabulous-axolotl-f56cdc.netlify.app/)    |
-| 6   | [Infinite Scrolling App](https://joyful-tiramisu-cc72b7.netlify.app/) |
-| 7   |     [Sticky Notes](https://snazzy-frangipane-3e7d34.netlify.app/)     |
-| 8   |       [Math Puzzle](https://dainty-kringle-4febd3.netlify.app/)       |
-| 9   |         [Word Game](https://elegant-yeot-92b156.netlify.app/)         |
-| 10  |       [Math Game](https://gleeful-figolla-d97c01.netlify.app/)        |
-| 11  |       [Sorting Visualizer](https://punyakrit.github.io/Sorting-Visualizer/)        |
 
 ## Rules
 
@@ -146,11 +130,3 @@ This project is licensed under the [**MIT license**](https://github.com/KIET7UKE
   <tbody><tr>
      <td align="center"><a href="https://github.com/KIET7UKE"><img alt="" src="https://avatars.githubusercontent.com/u/76551267?s=400&u=6683bf9ce8686492846628c6fc000bef22361a4e&v=4" width="125px;"><br><sub><b> Sahil Sharma </b></sub></a><br></td> </a></td>
 </tbody></table>
-
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-<h3 align=center> Contributors ❤️ </h3>
- 
-<a href="https://github.com/KIET7UKE/Hacktoberfest-2K22/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=KIET7UKE/Hacktoberfest-2K22&max=500" alt="Contributors list" width="100%"/>
-</a>
