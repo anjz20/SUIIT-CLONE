@@ -1,134 +1,68 @@
-<div align=center>
+# 🌱 Contributing to hacktoberfest 2022
 
-# Hacktoberfest Swag <!-- current year start -->2022<!-- current year end -->
+![banner](https://user-images.githubusercontent.com/76551267/192131870-a8a3b7d7-cfbf-4e77-9cb5-b0a4e458b02f.png)
 
+### Welcome to hacktoberfest 2022 Public Repository. 👨🏻‍💻
 
-![Hacktoberfest](https://user-images.githubusercontent.com/76551267/192132571-7d0d7952-9fcc-4e93-96bb-8350b20dcbfc.png "Hacktoberfest")
+<p>A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
-[![Website](https://img.shields.io/badge/Website-visit-2a8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://benbarth.github.io/hacktoberfest-swag/)
-[![Validation](https://img.shields.io/github/workflow/status/benbarth/hacktoberfest-swag/Update%20README/master?logo=github&style=for-the-badge)](https://github.com/benbarth/hacktoberfest-swag/actions?query=workflow%3A"Update+README")
-
-Looking for Hacktoberfest swag? You've come to the right place.
-
-</div>
-
-## What is Hacktoberfest?
-
-"Hacktoberfest is a month-long celebration of open source software." - _DigitalOcean_
-
-Hacktoberfest is open to everyone. For the [official limited edition Hacktoberfest shirt](https://hacktoberfest.digitalocean.com), _you must register and make four pull requests_ in the month of October (to a repository with the _hacktoberfest_ label) - you can even contribute to this repository! You can sign up at [hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com).
-
-Hacktoberfest® encourages participation in the open source community.
-
-In all of the hacktoberfest excitement, many companies want to join the celebration by rewarding their contributors with even more swag! That's why we're here!
-
-### The purpose of this list is to incentivize meaningful contributions. If you intend to make low-value changes -- just for swag. _Don't._
-
-# Special Note For Everyone
-
-```py
-'''
-always make more then 4 pull request
-lets you have made only 4 pull request to different projects
-but one project is excluded from hacktoberfest event then your pull request will not be count and
-then you have remains 3 valid pull request if these projects is not excluded.
-if you fail to make 4 pull request then you cant get swags or t-shirts.
-
-i will recommend you make pull request to your own repo which is very very safest side for you..
-keep in mind that repo has hacktoberfest topic..
-'''
-```
-
-# Contribution rules📚:
-
-- The project must work when opening Contributors.html
-- You are allowed to make pull requests that break the rules. We just merge it ;)
-- Do NOT add any build steps e.g npm install (we want to keep this a simple static site)
-- Do NOT remove other content.
-- Styling/code can be pretty, ugly or stupid, big or small as long as it works
-- Add your name to the Contributors.html file
-- Try to keep pull requests small to minimize merge conflicts
-- To get a shirt, you must make four approved pull requests (PRs) on opted-in projects between October 1-31 in any time zone.
-- This year, the first 40,000 participants can earn a T-shirt.
-
-## Getting Started 🤩🤗:
-
-- Fork this repo (button on top)
-- Clone on your local machine
-
-```
-git clone https://github.com/KIET7UKE/Hacktoberfest-2K22
-
-```
-- Navigate to project directory.
-```
-cd Hacktoberfest-2K22
-```
-
-- Create a new Branch
-
-```markdown
-git checkout -b my-new-branch
-```
-- Add your contribution
-```
-git add .
-```
-- Commit your changes.
-
-```markdown
-git commit -m "Relevant message"
-```
-- Then push 
-```
-git push origin my-new-branch
-```
-
-
-- Create a new pull request from your forked repository
-
-<br>
-
-| 11  |       [Sorting Visualizer](https://punyakrit.github.io/Sorting-Visualizer/)        |
-
-## Rules
-
-- Don't use filthy words and be welcome for beginners and other people in this community.
+https://hacktoberfest.com//</p>
 
 ---
 
-## Contributing
+### What can You contribute ⚠️
 
-Before making any contribution, big or small, Contributors are advised to go through the [Contributing Guidelines](./Contribution.md).
+- Contribute any JS projects you made.
+- Contribute any DSA problems of your choice
+- Make sure your follow the below steps.
 
-## Code of Conduct
+---
 
-To maintain a safe and inclusive space for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](./Code_Of_Conduct.md).
+### Process is as follows :-
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<br>
+- Login using github @ [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+- Create four valid pull requests (PRs) between 1st - 31st October
 
-<div align="center">
+---
 
-### Show some ❤️ by starring⭐ this awesome Repository!
+### How to Contribute to this repository
 
-</div>
-  
+- Fork the repository (Click the Fork button in the top right of this page, click your Profile Image)
+- Clone the forked repository to your local machine.
 
-#
+```markdown
+git clone https://github.com/KIET7UKE/Hacktoberfest-2K22.git
+```
 
-	
+- change the present working directory
 
-<h3 align=center> Project Admin ❤️ </h3>
+```markdown
+cd https://github.com/KIET7UKE/Hacktoberfest-2K22.git
+```
 
-© 2022 Sahil Sharma and contributors\
-This project is licensed under the [**MIT license**](https://github.com/KIET7UKE/Hacktoberfest-2K22/blob/main/LICENSE).
+- Add/Create your project to the specific folder as described in what you can contribute section.
+- Make a new branch
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-<a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-red?style=for-the-badge" align="right"/></a>
+```markdown
+git checkout -b branch-name
+```
 
-<p align="center">
-<table align="center">
-  <tbody><tr>
-     <td align="center"><a href="https://github.com/KIET7UKE"><img alt="" src="https://avatars.githubusercontent.com/u/76551267?s=400&u=6683bf9ce8686492846628c6fc000bef22361a4e&v=4" width="125px;"><br><sub><b> Sahil Sharma </b></sub></a><br></td> </a></td>
-</tbody></table>
+- Make change in the repository with the new branch.
+- push the changes.
+
+```markdown
+git add .
+git commit -m "Your commit Message"
+git push origin branch-name
+```
+
+- Make a pull request.
+- Star the repository.
+
+### NOTE
+
+- Make Sure you commit your changes in a new branch.
+- Make Sure you Give proper name to your files describing the addition.
+- Also Make Sure to put comments in your code wherever necessary.
+
+<!--       END OF README           END OF README         END OF README         END OF README          END OF README           END OF README           END OF README      -->
